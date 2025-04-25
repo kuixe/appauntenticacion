@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472049541612",
+    "project_id": "gestordenotasfirebase",
+    "storage_bucket": "gestordenotasfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472049541612:android:82c6dfb6b2e028aea6a0c9",
+        "android_client_info": {
+          "package_name": "com.example.myapli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmXJZoGEe7yKDw4pDEOXIrs-_-wwG6jd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
