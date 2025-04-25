@@ -36,4 +36,9 @@ Esta es una aplicación de gestión de notas desarrollada en **Android Studio** 
 
 ![{B5FFA69D-9D0F-46C0-8E10-C3DFE414D703}](https://github.com/user-attachments/assets/8f6b3037-f263-4d50-944a-a764176f069d)
 
+**login exitoso**
+
+![{2C729D16-7C83-4458-8866-08587A2D241C}](https://github.com/user-attachments/assets/c7d6472e-2de0-40b5-9f88-8945a71f4117)
+
+
 
