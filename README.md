@@ -24,6 +24,8 @@ Esta es una aplicación de gestión de notas desarrollada en **Android Studio** 
 
 ## 📸 Capturas
 
+**iniciar sesion**
+
 ![{06EBE477-D8C7-474B-AC0A-47FB56E4C964}](https://github.com/user-attachments/assets/cbfdb84c-26bb-4f54-ba0e-c0905d47563d)
 
 **registrarse**
